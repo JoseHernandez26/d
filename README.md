@@ -24,7 +24,8 @@ El panorama de gestión del inventario con respectos al proceso de entradas prin
 - Seguimiento de transacciones en el inventario
 
 
-![imagen](https://user-images.githubusercontent.com/91498578/172072042-b3642fcf-2a34-4be2-bd01-0446658c4e85.png)
+![imagen](https://user-images.githubusercontent.com/91498578/172072113-d551020c-c69a-48fc-874a-6f2181672cc5.png)
+
 
 
 
