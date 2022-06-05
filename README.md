@@ -14,6 +14,7 @@ Entradas principales
 
 Como entradas principales para la gestión de inventario tenemos
 Productos, transacciones, direcciones, cantidad y locaciones de origen del stock y productos
+
 ![imagen](https://user-images.githubusercontent.com/91498578/172072026-780ecc2c-cc10-4925-b3a9-df15a43f5413.png)
 
 El panorama de gestión del inventario con respectos al proceso de entradas principales del módulo
@@ -21,6 +22,7 @@ El panorama de gestión del inventario con respectos al proceso de entradas prin
 - Movimientos de stock y productos.
 - Top 10 de ventas por productos.
 - Seguimiento de transacciones en el inventario
+
 
 ![imagen](https://user-images.githubusercontent.com/91498578/172072042-b3642fcf-2a34-4be2-bd01-0446658c4e85.png)
 
